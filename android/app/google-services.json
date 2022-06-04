@@ -1,0 +1,359 @@
+{
+  "project_info": {
+    "project_number": "354068810242",
+    "firebase_url": "https://maando-3ec60.firebaseio.com",
+    "project_id": "maando-3ec60",
+    "storage_bucket": "maando-3ec60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354068810242:android:0bbfb265dd9b05a791751b",
+        "android_client_info": {
+          "package_name": "com.example.maando"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "354068810242-0k4nqdume92ikqnaev2k8ovr8vnjaggr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.maando",
+            "certificate_hash": "b487b7418a429d9eed537f0e0585fb22d9fa2ebc"
+          }
+        },
+        {
+          "client_id": "354068810242-3n24cjuejfnkaqknjrrle770m3n5g8j2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.maando",
+            "certificate_hash": "fcdccd41bf87c62811ed6f916b426b77f1ea1022"
+          }
+        },
+        {
+          "client_id": "354068810242-52t1087mge5gcv7s6j21lg1vkhgk52hb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.maando",
+            "certificate_hash": "b28925f046c654ffdbd9a72fda1fc920f9f866bd"
+          }
+        },
+        {
+          "client_id": "354068810242-6i8blda1takeipv0tm49uff3doa42p13.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.maando",
+            "certificate_hash": "9c1237db131b294114e4403bda350c99f10dd656"
+          }
+        },
+        {
+          "client_id": "354068810242-7uc5dv3rqmo4vf5ou6tegk1g8gij6t8b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.maando",
+            "certificate_hash": "828d90851964a10bf7447c5d3a56755d530363ee"
+          }
+        },
+        {
+          "client_id": "354068810242-c67qtsftv52ifbt4h9bp0qrc8pkiit0v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.maando",
+            "certificate_hash": "4670e629ed01a6aadbcbaa8a54b34f8742acaa84"
+          }
+        },
+        {
+          "client_id": "354068810242-dbjk0sgc8frirgeh5ok911orlu7rnk5i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.maando",
+            "certificate_hash": "95a3acc6a07ea5195c6a261ff8d88c5712fec328"
+          }
+        },
+        {
+          "client_id": "354068810242-l30ascarbk443rrcqf3p7sh91qt8stvp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.maando",
+            "certificate_hash": "9d5eb015021134d21fef5b865f3d9cfc1dcb911f"
+          }
+        },
+        {
+          "client_id": "354068810242-rabp7ki2o04i93nev8lp4jfd23b4ql5s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.maando",
+            "certificate_hash": "906e276fe4e27b4885025ad04533366573b7b283"
+          }
+        },
+        {
+          "client_id": "354068810242-vpm8684apggbbi2rghhjo5epj8obopno.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.maando",
+            "certificate_hash": "b09cfc56b11279df5809b03c5a0def804b03bb58"
+          }
+        },
+        {
+          "client_id": "354068810242-nf6cnf8f6r8e1q1vc681kk1sbh9q0eh2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgvNM-KkSin8biLT9vMd037Y9e96nQNko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "354068810242-nf6cnf8f6r8e1q1vc681kk1sbh9q0eh2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "354068810242-6bdski9hvd7kb3f72kldamhgpbd5nals.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.jdv.maando.www"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354068810242:android:be4c9b636276b06891751b",
+        "android_client_info": {
+          "package_name": "com.example.maando2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "354068810242-21e1b71vdaloa5q2962jkqbunhji1ism.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.maando2",
+            "certificate_hash": "4670e629ed01a6aadbcbaa8a54b34f8742acaa84"
+          }
+        },
+        {
+          "client_id": "354068810242-53ea7ackq9921oddqk87qf5kaanf2h88.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.maando2",
+            "certificate_hash": "828d90851964a10bf7447c5d3a56755d530363ee"
+          }
+        },
+        {
+          "client_id": "354068810242-5cqgb62lsfk9om52p3el3upt0qpkidgn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.maando2",
+            "certificate_hash": "95a3acc6a07ea5195c6a261ff8d88c5712fec328"
+          }
+        },
+        {
+          "client_id": "354068810242-i2mtnf2cs81dlsh61stfinek0j2pbtj9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.maando2",
+            "certificate_hash": "b09cfc56b11279df5809b03c5a0def804b03bb58"
+          }
+        },
+        {
+          "client_id": "354068810242-loqin20lu5a4tbea3ksg9hgdba33pcaf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.maando2",
+            "certificate_hash": "b487b7418a429d9eed537f0e0585fb22d9fa2ebc"
+          }
+        },
+        {
+          "client_id": "354068810242-qeasmo7nsnntm127egapvasp6di2jinn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.maando2",
+            "certificate_hash": "9c1237db131b294114e4403bda350c99f10dd656"
+          }
+        },
+        {
+          "client_id": "354068810242-qv6eprlol5m8q5sivkcntedah49qss00.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.maando2",
+            "certificate_hash": "906e276fe4e27b4885025ad04533366573b7b283"
+          }
+        },
+        {
+          "client_id": "354068810242-rodcgeifseg3bdgcntpirv24vjf0fffr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.maando2",
+            "certificate_hash": "fcdccd41bf87c62811ed6f916b426b77f1ea1022"
+          }
+        },
+        {
+          "client_id": "354068810242-uu2stq5jnvu0ufs24b3fpc216q1foh5t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.maando2",
+            "certificate_hash": "b28925f046c654ffdbd9a72fda1fc920f9f866bd"
+          }
+        },
+        {
+          "client_id": "354068810242-vqip2mfhaklbtls0j5vt3moo8rhtqgbg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.maando2",
+            "certificate_hash": "9d5eb015021134d21fef5b865f3d9cfc1dcb911f"
+          }
+        },
+        {
+          "client_id": "354068810242-nf6cnf8f6r8e1q1vc681kk1sbh9q0eh2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgvNM-KkSin8biLT9vMd037Y9e96nQNko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "354068810242-nf6cnf8f6r8e1q1vc681kk1sbh9q0eh2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "354068810242-6bdski9hvd7kb3f72kldamhgpbd5nals.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.jdv.maando.www"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354068810242:android:1cb3af28092cf49491751b",
+        "android_client_info": {
+          "package_name": "com.maando.www"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "354068810242-5avd1dd89ilcji19lbritsq6emmp2hn5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.maando.www",
+            "certificate_hash": "4670e629ed01a6aadbcbaa8a54b34f8742acaa84"
+          }
+        },
+        {
+          "client_id": "354068810242-989975lhpfrtgtjcvahonb2l5sp1e0k5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.maando.www",
+            "certificate_hash": "fcdccd41bf87c62811ed6f916b426b77f1ea1022"
+          }
+        },
+        {
+          "client_id": "354068810242-9uv5ek74a27olo6ccnk68nl0r6a0c5eo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.maando.www",
+            "certificate_hash": "9c1237db131b294114e4403bda350c99f10dd656"
+          }
+        },
+        {
+          "client_id": "354068810242-c2b98d8ord98livjetd9lm2p5i8cbvfu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.maando.www",
+            "certificate_hash": "b09cfc56b11279df5809b03c5a0def804b03bb58"
+          }
+        },
+        {
+          "client_id": "354068810242-gksn0df1qvkct2vnob0q8ij2b1ufidbt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.maando.www",
+            "certificate_hash": "b487b7418a429d9eed537f0e0585fb22d9fa2ebc"
+          }
+        },
+        {
+          "client_id": "354068810242-j1oc6tdtioge8985l69reibbjcnkvsfv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.maando.www",
+            "certificate_hash": "828d90851964a10bf7447c5d3a56755d530363ee"
+          }
+        },
+        {
+          "client_id": "354068810242-oh6scjjjgrcfv9347hp4b7067328ej75.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.maando.www",
+            "certificate_hash": "b28925f046c654ffdbd9a72fda1fc920f9f866bd"
+          }
+        },
+        {
+          "client_id": "354068810242-prqphvcnjjd5cuhqmi079vcip8i9eedl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.maando.www",
+            "certificate_hash": "9d5eb015021134d21fef5b865f3d9cfc1dcb911f"
+          }
+        },
+        {
+          "client_id": "354068810242-qdpepj7os98vg22r4qjv2klh9h0r9ru3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.maando.www",
+            "certificate_hash": "906e276fe4e27b4885025ad04533366573b7b283"
+          }
+        },
+        {
+          "client_id": "354068810242-qn36ru8sdsa3ih82h27ek5tarfclq0ee.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.maando.www",
+            "certificate_hash": "95a3acc6a07ea5195c6a261ff8d88c5712fec328"
+          }
+        },
+        {
+          "client_id": "354068810242-nf6cnf8f6r8e1q1vc681kk1sbh9q0eh2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgvNM-KkSin8biLT9vMd037Y9e96nQNko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "354068810242-nf6cnf8f6r8e1q1vc681kk1sbh9q0eh2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "354068810242-6bdski9hvd7kb3f72kldamhgpbd5nals.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.jdv.maando.www"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

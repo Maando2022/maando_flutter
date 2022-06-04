@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyCxQlFT9bU02W0l9OORC-FwxsFvfaVDmgg</string>
+	<key>BUNDLE_ID</key>
+	<string>com.jdv.maando.www</string>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>$(DEVELOPMENT_LANGUAGE)</string>
+	<key>CFBundleDisplayName</key>
+	<string>Maando</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleIdentifier</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>Maando</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>$(MARKETING_VERSION)</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLName</key>
+			<string>com.jdv.maando.www.braintree</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>com.googleusercontent.apps.354068810242-6bdski9hvd7kb3f72kldamhgpbd5nals</string>
+				<string>com.jdv.maando.www.braintree</string>
+				<string>fb946064245931513</string>
+			</array>
+		</dict>
+	</array>
+	<key>CFBundleVersion</key>
+	<string>$(CURRENT_PROJECT_VERSION)</string>
+	<key>CLIENT_ID</key>
+	<string>288248783867-q40obggh086rcevjo7mgc2n1j36j8dof.apps.googleusercontent.com</string>
+	<key>DATABASE_URL</key>
+	<string>https://maando-ee866.firebaseio.com</string>
+	<key>FacebookAppID</key>
+	<string>946064245931513</string>
+	<key>FacebookDisplayName</key>
+	<string>Maando</string>
+	<key>GCM_SENDER_ID</key>
+	<string>288248783867</string>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:288248783867:ios:6a5655ccafc1baa9a7a15e</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>LSApplicationQueriesSchemes</key>
+	<array>
+		<string>https</string>
+		<string>http</string>
+		<string>whatsapp</string>
+		<string>tel</string>
+	</array>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsArbitraryLoads</key>
+		<true/>
+		<key>NSAllowsArbitraryLoadsInWebContent</key>
+		<true/>
+	</dict>
+	<key>NSAppleMusicUsageDescription</key>
+	<string>Play using while you are hiking</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Maando requires the user of the camera to take picture of your package.</string>
+	<key>NSFaceIDUsageDescription</key>
+	<string>Why is my app authenticating using face id?</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>This application requires the device's location permissions to track users and packages sent.</string>
+	<key>NSLocationUsageDescription</key>
+	<string>This application requires the device's location permissions to track users and packages sent.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>This application requires the device's location permissions to track users and packages sent.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>I need access to the microphone</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Maando requires the user to use a photo from the reel of images that represents their package.</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>PROJECT_ID</key>
+	<string>maando-ee866</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.288248783867-q40obggh086rcevjo7mgc2n1j36j8dof</string>
+	<key>STORAGE_BUCKET</key>
+	<string>maando-ee866.appspot.com</string>
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreen</string>
+	<key>UIMainStoryboardFile</key>
+	<string>Main</string>
+	<key>UIStatusBarStyle</key>
+	<string>UIStatusBarStyleDarkContent</string>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>UISupportedInterfaceOrientations~ipad</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationPortraitUpsideDown</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>UIViewControllerBasedStatusBarAppearance</key>
+	<false/>
+	<key>io.flutter.embedded_views_preview</key>
+	<true/>
+</dict>
+</plist>
